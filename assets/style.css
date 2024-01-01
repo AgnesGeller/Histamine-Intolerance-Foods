@@ -1,0 +1,27 @@
+body {
+    background-color: #dbb6ce;
+    font-family: Snell Roundhand, cursive;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  li {
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: whitesmoke;
+  }
+  
