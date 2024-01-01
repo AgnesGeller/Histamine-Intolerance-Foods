@@ -4,6 +4,11 @@ body {
     font-weight: bold;
     padding: 20px;
   }
+
+  .bi {
+    font-size: 90px;
+    color: pink;
+  }
   
   h1 {
     text-align: center;
